@@ -1,0 +1,1 @@
+A Wikipedia Page Viewing project as part of the projects for freeCodeCamp. I used AngularJS for the calls to the Wikipedia API. The user can either click the link to get a random page or use the search engine to get the top ten results of a custom search. Results are displayed with thumbnail images (if they exist on the Wikipedia page) in a sequence of custom outputData objects.
